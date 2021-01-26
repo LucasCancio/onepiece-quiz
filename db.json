@@ -1,7 +1,7 @@
 {
-    "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
+    "bg": "https://img.elo7.com.br/product/zoom/1BDDE7C/painel-festa-1-20x0-70cm-one-piece-decoracao.jpg",
     "title": "Quiz do One Piece",
-    "description": "Teste os seus conhecimentos sobre One Piece e vamos ver se você seria um dos chapéu de palha",
+    "description": "Teste os seus conhecimentos sobre One Piece e vamos ver se você seria um dos 'mugiwaras'",
     "questions": [
         {
             "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
@@ -31,8 +31,8 @@
     ],
     "theme": {
         "colors": {
-            "primary": "#0d47a1",
-            "secondary": "#29b6f6",
+            "primary": "#ff9100",
+            "secondary": "#e91e63",
             "mainBg": "#171B35",
             "contrastText": "#FFFFFF",
             "wrong": "#FF5722",
