@@ -1,41 +1,216 @@
 {
+    "scorePoints": [
+        {
+            "message": "Que pena! Você ainda não poderá entrar no bando...",
+            "minPoints": 0,
+            "maxPoints": 4,
+            "image": "https://i.pinimg.com/originals/1b/9c/a2/1b9ca253ab843f565bd929e6ff964c6f.gif"
+        },
+        {
+            "message": "Boa! Você será bem vindo no bando.",
+            "minPoints": 5,
+            "maxPoints": 8,
+            "image": "https://media3.giphy.com/media/tuCFp8rod0x3O/giphy.gif"
+        },
+        {
+            "message": "Agora não tem como recusar, o Luffy já decidiu que você será do bando.",
+            "minPoints": 9,
+            "maxPoints": 12,
+            "image": "https://i.pinimg.com/originals/de/a5/d7/dea5d7711700b2acf0f8e20b3352dba7.gif"
+        },
+        {
+            "message": "Além de entrar no bando, você descobre que é parente do Luffy!",
+            "minPoints": 13,
+            "maxPoints": 13,
+            "image": "https://thumbs.gfycat.com/ExcellentExaltedAfricanparadiseflycatcher-small.gif"
+        }
+    ],
     "bg": "https://img.elo7.com.br/product/zoom/1BDDE7C/painel-festa-1-20x0-70cm-one-piece-decoracao.jpg",
     "title": "Quiz do One Piece",
-    "description": "Teste os seus conhecimentos sobre One Piece e vamos ver se você seria um dos 'mugiwaras'",
+    "description": "Teste os seus conhecimentos sobre One Piece e vamos ver se você seria um dos 'mugiwaras' (PODE CONTER SPOILERS)",
     "questions": [
         {
-            "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-            "title": "Como fazer um seletor por id via CSS?",
-            "description": "Essa é pra aquecer",
-            "answer": 2,
+            "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1447001557-e4aa85a6868f2ebd486d38e76b4242b8.jpeg",
+            "title": "Durante os acontecimentos de Dressrosa, quem foram os 2 que continham 2 estrelas no jogo que Doflamingo propôs?",
+            "description": "",
+            "answer": 0,
             "alternatives": [
-                ".elemento",
-                "*elemento",
-                "#elemento",
-                "%elemento"
+                "Kyros e Zoro",
+                "Usopp e Franky",
+                "Sabo e Luffy",
+                "Zoro e Robin",
+                "Franky e Rebecca"
             ]
         },
         {
-            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-            "title": "Como fazer um background gradiente com css?",
-            "description": "Faz tempo em haha",
+            "image": "https://pa1.narvii.com/6758/520bf50ab5892b30cae0221117f76d959c4d2afa_hq.gif",
+            "title": "Quem foi que achou a passagem subterrânea que levava á Ponte da Hesitação no arco de Enies Lobby?",
+            "description": "Sem essa pessoa, a Robin teria sido levada",
+            "answer": 4,
+            "alternatives": [
+                "Blueno",
+                "Gonbe",
+                "Zoro",
+                "Luffy",
+                "Chimney"
+            ]
+        },
+        {
+            "image": "https://img.quizur.com/f/img5ff9cb08465e49.14673785.png?lastEdited=1610205967",
+            "title": "Onde é?",
+            "description": "Dúvido você acertar essa",
+            "answer": 3,
+            "alternatives": [
+                "Vila Cocoyasi",
+                "Alabasta",
+                "Vila Syrup",
+                "Vila Foosha",
+                "Vila Shimotsuki"
+            ]
+        },
+        {
+            "image": "https://i.skyrock.net/4238/87434238/pics/3257675216_1_5_llqphDmD.jpg",
+            "title": "Porque Usopp atirou uma algema de kairoseki no braço de Zoro?",
+            "description": "",
+            "answer": 3,
+            "alternatives": [
+                "Mirou errado",
+                "Ficou com medo da transformação do Chopper",
+                "Sentiu medo da forma de Jabra",
+                "Se distraiu por causa da forma engraçada de Jabra",
+                "Bolou um plano que precisava algemar o Zoro"
+            ]
+        },
+        {
+            "image": "https://pa1.narvii.com/6319/69aeaf6d55f8c9e17dbcac8e20b6bb7d93174c6c_hq.gif",
+            "title": "Buggy antes de ser preso em Impel down estava procurando um mapa do tesouro. De quem era esse tesouro?",
+            "description": "Gol D. Buggy",
+            "answer": 3,
+            "alternatives": [
+                "Edward Newgate",
+                "Gol D. Roger",
+                "Davy Jones",
+                "Capitão John",
+                "Silvers Rayleigh"
+            ]
+        },
+        {
+            "image": "https://33.media.tumblr.com/ce8783ab26ec906873b890847732bef5/tumblr_nux2bu6pKH1uvodrao1_400.gif",
+            "title": "Quem foi o primeiro prisioneiro a fugir de impel down?",
+            "description": "",
             "answer": 0,
             "alternatives": [
-                "background: linear-gradient(#e66465, #9198e5);",
-                "background: gradient(#e66465, #9198e5);"
+                "Shiki Leão Dourado",
+                "Gol D. Roger",
+                "Buggy, o Palhaço",
+                "Monkey D. Luffy",
+                "Fisher Tiger"
+            ]
+        },
+        {
+            "image": "https://pm1.narvii.com/6528/0fd67588a969e0375b26187ef2f602a8a39d5084_hq.jpg",
+            "title": "Quem foi o primeiro tripulante nos Chapéu de Palha?",
+            "description": "Pense bem...",
+            "answer": 4,
+            "alternatives": [
+                "Nami",
+                "Zoro",
+                "Usopp",
+                "Sanji",
+                "Luffy"
+            ]
+        },
+        {
+            "image": "https://pm1.narvii.com/6975/66f03e973f0f797cfa3a11f8be6a8d32ceeb3f00r1-696-650v2_00.jpg",
+            "title": "De acordo com o criador Eiichiro Oda, qual seria a nacionalidade de Monkey D.Luffy?",
+            "description": "",
+            "answer": 2,
+            "alternatives": [
+                "Ele nunca falou...",
+                "Mexicano",
+                "Brasileiro",
+                "Europeu",
+                "Irlandês"
+            ]
+        },
+        {
+            "image": "https://static.quizur.com/i/b/5782c4ff7e5f75.29952198gecko%20moria.jpg",
+            "title": "Quem é esse personagem e qual é o seu poder?",
+            "description": "Esse Arco é muito engraçado!",
+            "answer": 2,
+            "alternatives": [
+                "Doria e poder da escuridão",
+                "Moria e poder da escuridão",
+                "Moria e poder de manipular sombras",
+                "Noria e poder de manipular sombras",
+                "Noria e poder da escuridão"
+            ]
+        },
+        {
+            "image": "https://i.makeagif.com/media/10-01-2015/Xm5NV2.gif",
+            "title": "Qual o nome desse personagem?",
+            "description": "Só lembrando que não é o Usopp 👀",
+            "answer": 0,
+            "alternatives": [
+                "Sogeking",
+                "Usolland",
+                "God Usopp",
+                "Sodeking",
+                "Usoking"
+            ]
+        },
+        {
+            "image": "https://img.quizur.com/f/img5ddebc29c82279.11460918.jpg?lastEdited=1574878260",
+            "title": "Qual é a maior fraqueza de Sanji?",
+            "description": "",
+            "answer": 3,
+            "alternatives": [
+                "Agua",
+                "Luta a longa distancia",
+                "Espadas",
+                "Mulheres",
+                "Cancer"
+            ]
+        },
+        {
+            "image": "https://static.quizur.com/i/b/5782de1b6ca639.27019277aokiji-vs-akainu--battle-of-admirals--by-sharaizx-d8m3los.jpg",
+            "title": "Pelo qual motivo, aconteceu a batalha épica entre Aokiji e Akainu?",
+            "description": "A luta foi tão épica, que mudou o clima de uma ilha",
+            "answer": 0,
+            "alternatives": [
+                "Disputa para o posto de almirante da frota",
+                "Rebelião por parte do Aokiji",
+                "Vingança pela morte do Barba Branca",
+                "Aokiji queria proteger o Luffy",
+                "Akainu matou uma pessoa especial para o Aokiji"
+            ]
+        },
+        {
+            "image": "https://criticalhits.com.br/wp-content/uploads/2019/01/Chap%C3%A9u-de-Palha-740x416.png",
+            "title": "Antes do Luffy, quem mais usou o Chapéu de Palha?",
+            "description": "Esse chapéu já rodou bastante...",
+            "answer": 0,
+            "alternatives": [
+                "Gol D. Roger e Shanks",
+                "Barba Branca e Shanks",
+                "Barba Negra e Shanks",
+                "Silvers Rayleigh e Shanks",
+                "Monkey D. Garp e Shanks"
             ]
         }
     ],
     "external": [
-        ""
+        "https://quiz-one-piece.henpassquesori.vercel.app/",
+        "https://naruto-quiz.llofyy.vercel.app/",
+        "https://pokequiz-imersao-next.felipeferreiradev.vercel.app/"
     ],
     "theme": {
         "colors": {
             "primary": "#ff9100",
-            "secondary": "#e91e63",
+            "secondary": "#FF5722",
             "mainBg": "#171B35",
             "contrastText": "#FFFFFF",
-            "wrong": "#FF5722",
+            "wrong": "#e91e63",
             "success": "#4CAF50"
         },
         "borderRadius": "4px"

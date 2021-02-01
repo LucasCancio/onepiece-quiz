@@ -29,6 +29,7 @@ Widget.Header = styled.header`
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  text-align: center;
   padding: 18px 32px;
   background-color: ${({ theme }) => theme.colors.primary};
 
